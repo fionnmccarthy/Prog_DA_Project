@@ -8,7 +8,7 @@ This is my repository for the a module assessment in the Programming for Data An
 
 **real_world_phenomenon.ipynb** is a notebook I created in order to simulate a real world phenomenon of my choice. Having a background in healthcare I decided to simulate emergency department data. I investigated variables that have an effect ion risk of inpatient admssion from a hospital emergency department. 
 
-![xplotoutput](ed.jpg)
+![xplotoutput](images/ed.jpg)
 
 ---
 ### In order to run this jupyter notebook.
